@@ -46,5 +46,11 @@ The easiest way of using the tool is:
 python location_history_generator.py --input input.json
 ```
 
+## Screenshots
+
+![Alt text](/samples/screenshot1.png)
+![Alt text](/samples/screenshot2.png)
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
