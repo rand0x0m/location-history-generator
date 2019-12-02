@@ -1,0 +1,3466 @@
+{
+  "locations": [
+    {
+      "timestampMs": "1220462195443",
+      "latitudeE7": 379739522,
+      "longitudeE7": 240083719,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220462195648",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046220537",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046221572",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462225921",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462235230",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462245701",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462255218",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220462269934",
+      "latitudeE7": 379746388,
+      "longitudeE7": 240083592,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220462269831",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462279268",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462289818",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462299886",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462309287",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462319950",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462329687",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462339350",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462349753",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462359744",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462369405",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462379715",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462389842",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462399759",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "122046241088",
+      "latitudeE7": 379746685,
+      "longitudeE7": 240100163,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220462410674",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462420905",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "12204624304",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462440869",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462450362",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462460904",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220462470540",
+      "latitudeE7": 379746128,
+      "longitudeE7": 240107252,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220462470273",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462480754",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462490548",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462500425",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220462511252",
+      "latitudeE7": 379742265,
+      "longitudeE7": 240107611,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220462511642",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462521443",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462531906",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462541655",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462551714",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462561802",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462571594",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462581582",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220462597122",
+      "latitudeE7": 379734706,
+      "longitudeE7": 240104143,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220462597286",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462607125",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462617730",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220462633719",
+      "latitudeE7": 379731723,
+      "longitudeE7": 240102016,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220462633720",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462643976",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462653913",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220462669599",
+      "latitudeE7": 379732795,
+      "longitudeE7": 240097952,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220462669250",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462679456",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462689682",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462699593",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220462718728",
+      "latitudeE7": 379732664,
+      "longitudeE7": 240092162,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220462718501",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462728793",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046273857",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462748291",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462758489",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462768143",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462778745",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "122046279055",
+      "latitudeE7": 379732675,
+      "longitudeE7": 240083695,
+      "accuracy": 80,
+      "activity": []
+    },
+    {
+      "timestampMs": "1220462795831",
+      "latitudeE7": 379736373,
+      "longitudeE7": 240083336,
+      "accuracy": 80,
+      "activity": []
+    },
+    {
+      "timestampMs": "122046285581",
+      "latitudeE7": 379741597,
+      "longitudeE7": 239993395,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220462855854",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462865754",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462875592",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462885780",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462895152",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220462909196",
+      "latitudeE7": 379750475,
+      "longitudeE7": 239993595,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "122046290916",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462919834",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462929124",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462939390",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462949384",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046295932",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462969192",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462979161",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462989324",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220462999434",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463009778",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "122046302519",
+      "latitudeE7": 379752018,
+      "longitudeE7": 239969832,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463025495",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463035536",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463045403",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463055473",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463065416",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463082676",
+      "latitudeE7": 379761102,
+      "longitudeE7": 239972123,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463082537",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463092678",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463102699",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463112558",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046312245",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463132971",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463142798",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463152522",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463162101",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463172908",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463186948",
+      "latitudeE7": 379756316,
+      "longitudeE7": 239992578,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463186642",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463196940",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463206729",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463216379",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463226235",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463236860",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463246342",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463256109",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463266437",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463276477",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463293786",
+      "latitudeE7": 379773668,
+      "longitudeE7": 239992610,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463293795",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046330392",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463313844",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463323752",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463333559",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "12204633434",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463353135",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463363155",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463379948",
+      "latitudeE7": 379787739,
+      "longitudeE7": 239993369,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463379184",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463389759",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463399840",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046340961",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "122046342897",
+      "latitudeE7": 379795672,
+      "longitudeE7": 239991967,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463428311",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463438262",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463448949",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463458619",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463468352",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463478300",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "122046348994",
+      "latitudeE7": 379788310,
+      "longitudeE7": 239983452,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463489495",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463499735",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463509128",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463519740",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463529123",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463539226",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046354930",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463559947",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463569428",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463579915",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463589467",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463599167",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463609566",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463619200",
+      "latitudeE7": 379774349,
+      "longitudeE7": 239963397,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463619277",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463629207",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463639735",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463649165",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463659537",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463669576",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463679171",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463689709",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463700866",
+      "latitudeE7": 379764584,
+      "longitudeE7": 239952133,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463700992",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463710333",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463720326",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463731635",
+      "latitudeE7": 379759900,
+      "longitudeE7": 239949849,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463731927",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046374183",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463760564",
+      "latitudeE7": 379755843,
+      "longitudeE7": 239946671,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463760575",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463770587",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463780864",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046379054",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463803817",
+      "latitudeE7": 379753563,
+      "longitudeE7": 239955091,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "122046380310",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046381368",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463823245",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463833712",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463843186",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463853211",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463863320",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463877809",
+      "latitudeE7": 379742008,
+      "longitudeE7": 239950762,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463877289",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463894859",
+      "latitudeE7": 379740325,
+      "longitudeE7": 239953692,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463894678",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463908514",
+      "latitudeE7": 379738077,
+      "longitudeE7": 239952780,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463908876",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463918234",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463928790",
+      "latitudeE7": 379736801,
+      "longitudeE7": 239956745,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463928418",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463938546",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046394864",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220463964212",
+      "latitudeE7": 379732008,
+      "longitudeE7": 239952349,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220463964572",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046397497",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220463984706",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046399455",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464004936",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464014477",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464024710",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464034355",
+          "activity": [
+            {
+              "type": "RUNNING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464045868",
+      "latitudeE7": 379727805,
+      "longitudeE7": 239968092,
+      "accuracy": 80,
+      "activity": []
+    },
+    {
+      "timestampMs": "1220464055508",
+      "latitudeE7": 379734690,
+      "longitudeE7": 239980738,
+      "accuracy": 80,
+      "activity": []
+    },
+    {
+      "timestampMs": "122046405567",
+      "latitudeE7": 379728936,
+      "longitudeE7": 240052791,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464055876",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464065608",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046407541",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464085717",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464095758",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464105585",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464115480",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464125239",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464135532",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464145573",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464155887",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464165513",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464175315",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464185475",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464195145",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046420586",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464215360",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046422543",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464235860",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464245149",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464256964",
+      "latitudeE7": 379729213,
+      "longitudeE7": 240038604,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464256111",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464266400",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464276346",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464286207",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464296303",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464306231",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046431645",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464326146",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046433693",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464353522",
+      "latitudeE7": 379723813,
+      "longitudeE7": 240038758,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464353296",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464363794",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464373563",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464383439",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464393435",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046440342",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464413455",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464423567",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464433339",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464443780",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464453871",
+      "latitudeE7": 379723289,
+      "longitudeE7": 240031735,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464453372",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464463885",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464473305",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464483550",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464493128",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046450317",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464513164",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464523133",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464533933",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464543385",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464557418",
+      "latitudeE7": 379717455,
+      "longitudeE7": 240031771,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464557446",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046456750",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464577753",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464587834",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464597314",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464611444",
+      "latitudeE7": 379715655,
+      "longitudeE7": 240034826,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464611556",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464621407",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464631119",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464642828",
+      "latitudeE7": 379714048,
+      "longitudeE7": 240033914,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464642826",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464652255",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464667647",
+      "latitudeE7": 379712621,
+      "longitudeE7": 240033983,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464667292",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464677515",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464687534",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464697711",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464709982",
+      "latitudeE7": 379710571,
+      "longitudeE7": 240032504,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464709930",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464719411",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046472926",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464739296",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464749855",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464765351",
+      "latitudeE7": 379711519,
+      "longitudeE7": 240028686,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464765214",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464775819",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464785532",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464795752",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464805744",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464815451",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464826256",
+      "latitudeE7": 379714884,
+      "longitudeE7": 240029442,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464826251",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464836750",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464846917",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464856514",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464866323",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464876677",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464886739",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464896177",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464909511",
+      "latitudeE7": 379715882,
+      "longitudeE7": 240023723,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464909703",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464919995",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464929687",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464939478",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464949610",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464959476",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220464971581",
+      "latitudeE7": 379719308,
+      "longitudeE7": 240022852,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220464971788",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464981187",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220464991283",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465001983",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465011617",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465021515",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "12204650311",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465041907",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220465055495",
+      "latitudeE7": 379723997,
+      "longitudeE7": 240022088,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220465055546",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465065658",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465075704",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465085191",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465095358",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220465112128",
+      "latitudeE7": 379723592,
+      "longitudeE7": 240026126,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220465112872",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465122130",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465132271",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465142529",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465152496",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465162115",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465172301",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046518227",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046519246",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465202948",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465212966",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465222305",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465232646",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465242958",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465252391",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465262653",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465272409",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465282202",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465292370",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465302990",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465312256",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465322824",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465332608",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220465347421",
+      "latitudeE7": 379736656,
+      "longitudeE7": 240027304,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220465347423",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465357858",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046536795",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465377373",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465387692",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465397155",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465407273",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465417518",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465427697",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465437984",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465447913",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465457945",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465467223",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046547738",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465487794",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465497619",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465507511",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465517758",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465527811",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465537701",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465547244",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465557504",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465567495",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046557796",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "12204655876",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465597130",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465607535",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465617951",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465627324",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046563720",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465647238",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465657158",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046566765",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220465683792",
+      "latitudeE7": 379755353,
+      "longitudeE7": 240027419,
+      "accuracy": 80,
+      "activity": [
+        {
+          "timestampMs": "1220465683785",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465693389",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465703472",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465713187",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465723845",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465733983",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "122046574323",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465753605",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465763640",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465773992",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465783683",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465793387",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465803892",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465813629",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465823282",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        },
+        {
+          "timestampMs": "1220465833481",
+          "activity": [
+            {
+              "type": "WALKING",
+              "confidence": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "timestampMs": "1220465845951",
+      "latitudeE7": 379754994,
+      "longitudeE7": 240038830,
+      "accuracy": 80,
+      "activity": []
+    },
+    {
+      "timestampMs": "1220465855899",
+      "latitudeE7": 379760436,
+      "longitudeE7": 240039689,
+      "accuracy": 80,
+      "activity": []
+    }
+  ]
+}
