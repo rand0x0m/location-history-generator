@@ -31,15 +31,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/).
 ## Recommended usage
 
 The easiest way of using the tool is:
-1) Draw a PATH on Google Earth
-2) Export it to .kml
-3) Convert it to .gpx with this online [tool](https://kml2gpx.com/)
-4) Repeat 1-3 multiple times if needed, for generating different PATHs.
-5) Create your input.json file following the samples.
-6) ```bash
-python location_history_generator.py --input input.json
-```
-5) Make sure your data were generated successfully using these tools [1](https://locationhistoryvisualizer.com/heatmap/), [2](http://theyhaveyour.info/)
+1. Draw a PATH on Google Earth
+2. Export it to .kml
+3. Convert it to .gpx with this online [tool](https://kml2gpx.com/)
+4. Repeat 1-3 multiple times if needed, for generating different PATHs.
+5. Create your input.json file following the samples.
+6. `python location_history_generator.py --input input.json`
+7. Make sure your data were generated successfully using these tools [1](https://locationhistoryvisualizer.com/heatmap/), [2](http://theyhaveyour.info/)
 
 
 ## Usage
