@@ -43,7 +43,7 @@ The easiest way of using the tool is:
 ## Usage
 
 ```bash
-python location_history_generator.py --input input.json
+    python location_history_generator.py --input input.json
 ```
 
 ## Screenshots
