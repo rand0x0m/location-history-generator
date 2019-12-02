@@ -48,8 +48,8 @@ python location_history_generator.py --input input.json
 
 ## Screenshots
 
-![Alt text](samples/screenshot1.png)
-![Alt text](samples/screenshot2.png)
+![Alt text](/screenshots/screenshot1.png)
+![Alt text](/screenshots/screenshot2.png)
 
 
 ## License
