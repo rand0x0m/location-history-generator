@@ -33,7 +33,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/).
 The easiest way of using the tool is:
 1. Draw a PATH on Google Earth
 2. Export it to .kml
-3. Convert it to .gpx with this online [tool](https://kml2gpx.com/)
+3. Convert it to .gpx with this online [tool](https://kml2gpx.com/). Make sure you check only the Tracks checkbox
 4. Repeat 1-3 multiple times if needed, for generating different PATHs.
 5. Create your input.json file following the samples.
 6. `python location_history_generator.py --input input.json`
